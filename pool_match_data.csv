@@ -1,0 +1,1001 @@
+match_id,table_tier,wager_amount,break_type,outcome,net_coins_change,running_bankroll
+MTH-0001,London Pub,50,Power Break,Loss,-50,49950
+MTH-0002,London Pub,50,Soft Break,Loss,-50,49900
+MTH-0003,Moscow Winter,500,Power Break,Win,500,50400
+MTH-0004,Sydney Marina,250,Power Break,Loss,-250,50150
+MTH-0005,Sydney Marina,250,Second-Ball Break,Loss,-250,49900
+MTH-0006,Sydney Marina,250,Power Break,Loss,-250,49650
+MTH-0007,London Pub,50,Dry Break (No Pot),Win,50,49700
+MTH-0008,Las Vegas,10000,Power Break,Win,10000,59700
+MTH-0009,London Pub,50,Power Break,Loss,-50,59650
+MTH-0010,Las Vegas,10000,Second-Ball Break,Win,10000,69650
+MTH-0011,Tokyo Warrior,2500,Second-Ball Break,Win,2500,72150
+MTH-0012,London Pub,50,Power Break,Win,50,72200
+MTH-0013,London Pub,50,Second-Ball Break,Loss,-50,72150
+MTH-0014,London Pub,50,Power Break,Loss,-50,72100
+MTH-0015,Sydney Marina,250,Second-Ball Break,Win,250,72350
+MTH-0016,Sydney Marina,250,Second-Ball Break,Win,250,72600
+MTH-0017,Las Vegas,10000,Power Break,Loss,-10000,62600
+MTH-0018,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,52600
+MTH-0019,London Pub,50,Power Break,Win,50,52650
+MTH-0020,Las Vegas,10000,Second-Ball Break,Win,10000,62650
+MTH-0021,Sydney Marina,250,Power Break,Win,250,62900
+MTH-0022,Las Vegas,10000,Power Break,Loss,-10000,52900
+MTH-0023,Tokyo Warrior,2500,Power Break,Loss,-2500,50400
+MTH-0024,Sydney Marina,250,Power Break,Loss,-250,50150
+MTH-0025,Tokyo Warrior,2500,Second-Ball Break,Win,2500,52650
+MTH-0026,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,42650
+MTH-0027,Moscow Winter,500,Dry Break (No Pot),Loss,-500,42150
+MTH-0028,London Pub,50,Second-Ball Break,Loss,-50,42100
+MTH-0029,Sydney Marina,250,Power Break,Win,250,42350
+MTH-0030,Tokyo Warrior,2500,Power Break,Win,2500,44850
+MTH-0031,Moscow Winter,500,Power Break,Win,500,45350
+MTH-0032,Moscow Winter,500,Dry Break (No Pot),Loss,-500,44850
+MTH-0033,Sydney Marina,250,Power Break,Loss,-250,44600
+MTH-0034,Sydney Marina,250,Power Break,Loss,-250,44350
+MTH-0035,Moscow Winter,500,Power Break,Loss,-500,43850
+MTH-0036,London Pub,50,Soft Break,Win,50,43900
+MTH-0037,London Pub,50,Power Break,Loss,-50,43850
+MTH-0038,Tokyo Warrior,2500,Soft Break,Loss,-2500,41350
+MTH-0039,London Pub,50,Soft Break,Win,50,41400
+MTH-0040,Moscow Winter,500,Power Break,Win,500,41900
+MTH-0041,Moscow Winter,500,Dry Break (No Pot),Loss,-500,41400
+MTH-0042,Las Vegas,10000,Power Break,Win,10000,51400
+MTH-0043,Moscow Winter,500,Power Break,Win,500,51900
+MTH-0044,London Pub,50,Soft Break,Loss,-50,51850
+MTH-0045,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,49350
+MTH-0046,Las Vegas,10000,Power Break,Loss,-10000,39350
+MTH-0047,London Pub,50,Soft Break,Loss,-50,39300
+MTH-0048,Tokyo Warrior,2500,Soft Break,Loss,-2500,36800
+MTH-0049,London Pub,50,Second-Ball Break,Win,50,36850
+MTH-0050,Las Vegas,10000,Power Break,Win,10000,46850
+MTH-0051,Moscow Winter,500,Power Break,Loss,-500,46350
+MTH-0052,Las Vegas,10000,Power Break,Loss,-10000,36350
+MTH-0053,Moscow Winter,500,Dry Break (No Pot),Win,500,36850
+MTH-0054,Las Vegas,10000,Second-Ball Break,Loss,-10000,26850
+MTH-0055,Sydney Marina,250,Power Break,Win,250,27100
+MTH-0056,London Pub,50,Power Break,Win,50,27150
+MTH-0057,London Pub,50,Dry Break (No Pot),Loss,-50,27100
+MTH-0058,Sydney Marina,250,Second-Ball Break,Loss,-250,26850
+MTH-0059,Moscow Winter,500,Dry Break (No Pot),Win,500,27350
+MTH-0060,London Pub,50,Dry Break (No Pot),Loss,-50,27300
+MTH-0061,Sydney Marina,250,Dry Break (No Pot),Loss,-250,27050
+MTH-0062,London Pub,50,Power Break,Win,50,27100
+MTH-0063,Tokyo Warrior,2500,Power Break,Win,2500,29600
+MTH-0064,Moscow Winter,500,Dry Break (No Pot),Loss,-500,29100
+MTH-0065,Tokyo Warrior,2500,Power Break,Loss,-2500,26600
+MTH-0066,Moscow Winter,500,Second-Ball Break,Win,500,27100
+MTH-0067,Sydney Marina,250,Power Break,Win,250,27350
+MTH-0068,Moscow Winter,500,Dry Break (No Pot),Loss,-500,26850
+MTH-0069,Moscow Winter,500,Second-Ball Break,Loss,-500,26350
+MTH-0070,Sydney Marina,250,Power Break,Loss,-250,26100
+MTH-0071,Moscow Winter,500,Dry Break (No Pot),Win,500,26600
+MTH-0072,London Pub,50,Second-Ball Break,Win,50,26650
+MTH-0073,Las Vegas,10000,Power Break,Win,10000,36650
+MTH-0074,Sydney Marina,250,Second-Ball Break,Win,250,36900
+MTH-0075,Las Vegas,10000,Power Break,Win,10000,46900
+MTH-0076,Sydney Marina,250,Dry Break (No Pot),Win,250,47150
+MTH-0077,Sydney Marina,250,Power Break,Win,250,47400
+MTH-0078,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,49900
+MTH-0079,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,47400
+MTH-0080,Moscow Winter,500,Power Break,Loss,-500,46900
+MTH-0081,Las Vegas,10000,Power Break,Loss,-10000,36900
+MTH-0082,Sydney Marina,250,Second-Ball Break,Win,250,37150
+MTH-0083,Moscow Winter,500,Power Break,Loss,-500,36650
+MTH-0084,London Pub,50,Power Break,Win,50,36700
+MTH-0085,Sydney Marina,250,Power Break,Loss,-250,36450
+MTH-0086,London Pub,50,Second-Ball Break,Win,50,36500
+MTH-0087,Moscow Winter,500,Second-Ball Break,Win,500,37000
+MTH-0088,Tokyo Warrior,2500,Second-Ball Break,Win,2500,39500
+MTH-0089,Moscow Winter,500,Second-Ball Break,Win,500,40000
+MTH-0090,London Pub,50,Dry Break (No Pot),Win,50,40050
+MTH-0091,Sydney Marina,250,Power Break,Win,250,40300
+MTH-0092,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,30300
+MTH-0093,Moscow Winter,500,Power Break,Loss,-500,29800
+MTH-0094,Sydney Marina,250,Dry Break (No Pot),Loss,-250,29550
+MTH-0095,Tokyo Warrior,2500,Second-Ball Break,Win,2500,32050
+MTH-0096,Tokyo Warrior,2500,Power Break,Loss,-2500,29550
+MTH-0097,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,27050
+MTH-0098,Sydney Marina,250,Power Break,Win,250,27300
+MTH-0099,Moscow Winter,500,Soft Break,Loss,-500,26800
+MTH-0100,Sydney Marina,250,Dry Break (No Pot),Loss,-250,26550
+MTH-0101,Sydney Marina,250,Second-Ball Break,Win,250,26800
+MTH-0102,Las Vegas,10000,Power Break,Loss,-10000,16800
+MTH-0103,Las Vegas,10000,Second-Ball Break,Win,10000,26800
+MTH-0104,Moscow Winter,500,Power Break,Loss,-500,26300
+MTH-0105,Las Vegas,10000,Power Break,Win,10000,36300
+MTH-0106,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,33800
+MTH-0107,Las Vegas,10000,Second-Ball Break,Win,10000,43800
+MTH-0108,Tokyo Warrior,2500,Soft Break,Win,2500,46300
+MTH-0109,Moscow Winter,500,Power Break,Loss,-500,45800
+MTH-0110,Sydney Marina,250,Second-Ball Break,Loss,-250,45550
+MTH-0111,Sydney Marina,250,Second-Ball Break,Win,250,45800
+MTH-0112,Las Vegas,10000,Power Break,Win,10000,55800
+MTH-0113,Tokyo Warrior,2500,Power Break,Win,2500,58300
+MTH-0114,London Pub,50,Dry Break (No Pot),Loss,-50,58250
+MTH-0115,London Pub,50,Dry Break (No Pot),Loss,-50,58200
+MTH-0116,London Pub,50,Soft Break,Loss,-50,58150
+MTH-0117,Sydney Marina,250,Second-Ball Break,Win,250,58400
+MTH-0118,Sydney Marina,250,Power Break,Loss,-250,58150
+MTH-0119,Tokyo Warrior,2500,Power Break,Win,2500,60650
+MTH-0120,Las Vegas,10000,Second-Ball Break,Win,10000,70650
+MTH-0121,London Pub,50,Dry Break (No Pot),Loss,-50,70600
+MTH-0122,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,68100
+MTH-0123,Tokyo Warrior,2500,Power Break,Loss,-2500,65600
+MTH-0124,Las Vegas,10000,Second-Ball Break,Loss,-10000,55600
+MTH-0125,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,53100
+MTH-0126,Las Vegas,10000,Power Break,Win,10000,63100
+MTH-0127,Moscow Winter,500,Dry Break (No Pot),Loss,-500,62600
+MTH-0128,Las Vegas,10000,Power Break,Loss,-10000,52600
+MTH-0129,London Pub,50,Dry Break (No Pot),Loss,-50,52550
+MTH-0130,London Pub,50,Second-Ball Break,Win,50,52600
+MTH-0131,Las Vegas,10000,Second-Ball Break,Loss,-10000,42600
+MTH-0132,Moscow Winter,500,Power Break,Loss,-500,42100
+MTH-0133,Moscow Winter,500,Dry Break (No Pot),Loss,-500,41600
+MTH-0134,London Pub,50,Second-Ball Break,Loss,-50,41550
+MTH-0135,Moscow Winter,500,Power Break,Win,500,42050
+MTH-0136,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,39550
+MTH-0137,Sydney Marina,250,Dry Break (No Pot),Loss,-250,39300
+MTH-0138,Tokyo Warrior,2500,Second-Ball Break,Win,2500,41800
+MTH-0139,London Pub,50,Soft Break,Loss,-50,41750
+MTH-0140,Moscow Winter,500,Soft Break,Loss,-500,41250
+MTH-0141,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,31250
+MTH-0142,Sydney Marina,250,Power Break,Win,250,31500
+MTH-0143,Las Vegas,10000,Second-Ball Break,Win,10000,41500
+MTH-0144,London Pub,50,Second-Ball Break,Win,50,41550
+MTH-0145,Moscow Winter,500,Power Break,Loss,-500,41050
+MTH-0146,Las Vegas,10000,Power Break,Win,10000,51050
+MTH-0147,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,41050
+MTH-0148,Sydney Marina,250,Power Break,Loss,-250,40800
+MTH-0149,Sydney Marina,250,Soft Break,Win,250,41050
+MTH-0150,Moscow Winter,500,Second-Ball Break,Win,500,41550
+MTH-0151,Sydney Marina,250,Power Break,Loss,-250,41300
+MTH-0152,Las Vegas,10000,Second-Ball Break,Win,10000,51300
+MTH-0153,Las Vegas,10000,Soft Break,Loss,-10000,41300
+MTH-0154,London Pub,50,Second-Ball Break,Win,50,41350
+MTH-0155,Las Vegas,10000,Soft Break,Win,10000,51350
+MTH-0156,Moscow Winter,500,Second-Ball Break,Win,500,51850
+MTH-0157,Tokyo Warrior,2500,Power Break,Loss,-2500,49350
+MTH-0158,London Pub,50,Dry Break (No Pot),Loss,-50,49300
+MTH-0159,London Pub,50,Second-Ball Break,Win,50,49350
+MTH-0160,Moscow Winter,500,Power Break,Win,500,49850
+MTH-0161,Moscow Winter,500,Second-Ball Break,Loss,-500,49350
+MTH-0162,Sydney Marina,250,Second-Ball Break,Win,250,49600
+MTH-0163,London Pub,50,Dry Break (No Pot),Loss,-50,49550
+MTH-0164,Sydney Marina,250,Second-Ball Break,Win,250,49800
+MTH-0165,Las Vegas,10000,Second-Ball Break,Win,10000,59800
+MTH-0166,London Pub,50,Power Break,Loss,-50,59750
+MTH-0167,London Pub,50,Power Break,Win,50,59800
+MTH-0168,Tokyo Warrior,2500,Power Break,Win,2500,62300
+MTH-0169,London Pub,50,Dry Break (No Pot),Loss,-50,62250
+MTH-0170,Las Vegas,10000,Second-Ball Break,Win,10000,72250
+MTH-0171,Sydney Marina,250,Second-Ball Break,Win,250,72500
+MTH-0172,Sydney Marina,250,Power Break,Win,250,72750
+MTH-0173,Tokyo Warrior,2500,Power Break,Loss,-2500,70250
+MTH-0174,Las Vegas,10000,Second-Ball Break,Win,10000,80250
+MTH-0175,Sydney Marina,250,Power Break,Loss,-250,80000
+MTH-0176,Moscow Winter,500,Second-Ball Break,Loss,-500,79500
+MTH-0177,Las Vegas,10000,Second-Ball Break,Win,10000,89500
+MTH-0178,Las Vegas,10000,Power Break,Loss,-10000,79500
+MTH-0179,Tokyo Warrior,2500,Power Break,Loss,-2500,77000
+MTH-0180,Sydney Marina,250,Dry Break (No Pot),Loss,-250,76750
+MTH-0181,Las Vegas,10000,Power Break,Loss,-10000,66750
+MTH-0182,Sydney Marina,250,Second-Ball Break,Win,250,67000
+MTH-0183,Moscow Winter,500,Dry Break (No Pot),Loss,-500,66500
+MTH-0184,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,64000
+MTH-0185,Moscow Winter,500,Power Break,Win,500,64500
+MTH-0186,Tokyo Warrior,2500,Power Break,Win,2500,67000
+MTH-0187,Las Vegas,10000,Power Break,Loss,-10000,57000
+MTH-0188,Tokyo Warrior,2500,Power Break,Win,2500,59500
+MTH-0189,London Pub,50,Dry Break (No Pot),Win,50,59550
+MTH-0190,Sydney Marina,250,Dry Break (No Pot),Win,250,59800
+MTH-0191,Sydney Marina,250,Power Break,Loss,-250,59550
+MTH-0192,London Pub,50,Second-Ball Break,Loss,-50,59500
+MTH-0193,Moscow Winter,500,Soft Break,Loss,-500,59000
+MTH-0194,London Pub,50,Power Break,Win,50,59050
+MTH-0195,Las Vegas,10000,Soft Break,Loss,-10000,49050
+MTH-0196,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,39050
+MTH-0197,Sydney Marina,250,Power Break,Loss,-250,38800
+MTH-0198,Las Vegas,10000,Power Break,Loss,-10000,28800
+MTH-0199,Sydney Marina,250,Dry Break (No Pot),Loss,-250,28550
+MTH-0200,London Pub,50,Soft Break,Loss,-50,28500
+MTH-0201,London Pub,50,Power Break,Loss,-50,28450
+MTH-0202,London Pub,50,Second-Ball Break,Loss,-50,28400
+MTH-0203,Sydney Marina,250,Power Break,Loss,-250,28150
+MTH-0204,London Pub,50,Power Break,Win,50,28200
+MTH-0205,London Pub,50,Dry Break (No Pot),Win,50,28250
+MTH-0206,Moscow Winter,500,Power Break,Loss,-500,27750
+MTH-0207,London Pub,50,Dry Break (No Pot),Loss,-50,27700
+MTH-0208,Las Vegas,10000,Second-Ball Break,Win,10000,37700
+MTH-0209,Sydney Marina,250,Power Break,Win,250,37950
+MTH-0210,Moscow Winter,500,Second-Ball Break,Loss,-500,37450
+MTH-0211,Tokyo Warrior,2500,Soft Break,Loss,-2500,34950
+MTH-0212,Sydney Marina,250,Power Break,Win,250,35200
+MTH-0213,Las Vegas,10000,Power Break,Loss,-10000,25200
+MTH-0214,Sydney Marina,250,Second-Ball Break,Loss,-250,24950
+MTH-0215,Las Vegas,10000,Power Break,Win,10000,34950
+MTH-0216,Las Vegas,10000,Power Break,Loss,-10000,24950
+MTH-0217,Tokyo Warrior,2500,Second-Ball Break,Win,2500,27450
+MTH-0218,Sydney Marina,250,Power Break,Loss,-250,27200
+MTH-0219,Tokyo Warrior,2500,Power Break,Loss,-2500,24700
+MTH-0220,Tokyo Warrior,2500,Soft Break,Win,2500,27200
+MTH-0221,Sydney Marina,250,Power Break,Loss,-250,26950
+MTH-0222,London Pub,50,Power Break,Win,50,27000
+MTH-0223,London Pub,50,Dry Break (No Pot),Loss,-50,26950
+MTH-0224,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,24450
+MTH-0225,Moscow Winter,500,Power Break,Win,500,24950
+MTH-0226,Tokyo Warrior,2500,Soft Break,Loss,-2500,22450
+MTH-0227,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,19950
+MTH-0228,Tokyo Warrior,2500,Power Break,Win,2500,22450
+MTH-0229,London Pub,50,Power Break,Win,50,22500
+MTH-0230,London Pub,50,Power Break,Win,50,22550
+MTH-0231,London Pub,50,Power Break,Loss,-50,22500
+MTH-0232,Tokyo Warrior,2500,Soft Break,Loss,-2500,20000
+MTH-0233,Moscow Winter,500,Dry Break (No Pot),Loss,-500,19500
+MTH-0234,London Pub,50,Power Break,Loss,-50,19450
+MTH-0235,Sydney Marina,250,Power Break,Loss,-250,19200
+MTH-0236,Sydney Marina,250,Power Break,Loss,-250,18950
+MTH-0237,Sydney Marina,250,Power Break,Loss,-250,18700
+MTH-0238,Las Vegas,10000,Second-Ball Break,Loss,-10000,8700
+MTH-0239,Tokyo Warrior,2500,Power Break,Loss,-2500,6200
+MTH-0240,Sydney Marina,250,Dry Break (No Pot),Loss,-250,5950
+MTH-0241,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,3450
+MTH-0242,Sydney Marina,250,Second-Ball Break,Win,250,3700
+MTH-0243,Moscow Winter,500,Second-Ball Break,Loss,-500,3200
+MTH-0244,Tokyo Warrior,2500,Power Break,Win,2500,5700
+MTH-0245,Sydney Marina,250,Dry Break (No Pot),Loss,-250,5450
+MTH-0246,London Pub,50,Second-Ball Break,Win,50,5500
+MTH-0247,Tokyo Warrior,2500,Power Break,Win,2500,8000
+MTH-0248,Las Vegas,10000,Second-Ball Break,Win,10000,18000
+MTH-0249,London Pub,50,Second-Ball Break,Win,50,18050
+MTH-0250,London Pub,50,Dry Break (No Pot),Loss,-50,18000
+MTH-0251,Las Vegas,10000,Second-Ball Break,Win,10000,28000
+MTH-0252,London Pub,50,Power Break,Loss,-50,27950
+MTH-0253,London Pub,50,Second-Ball Break,Win,50,28000
+MTH-0254,Sydney Marina,250,Dry Break (No Pot),Loss,-250,27750
+MTH-0255,Sydney Marina,250,Dry Break (No Pot),Loss,-250,27500
+MTH-0256,Tokyo Warrior,2500,Second-Ball Break,Win,2500,30000
+MTH-0257,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,27500
+MTH-0258,Tokyo Warrior,2500,Power Break,Win,2500,30000
+MTH-0259,Sydney Marina,250,Power Break,Loss,-250,29750
+MTH-0260,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,32250
+MTH-0261,London Pub,50,Second-Ball Break,Win,50,32300
+MTH-0262,Sydney Marina,250,Dry Break (No Pot),Loss,-250,32050
+MTH-0263,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,29550
+MTH-0264,London Pub,50,Second-Ball Break,Win,50,29600
+MTH-0265,Tokyo Warrior,2500,Power Break,Loss,-2500,27100
+MTH-0266,Moscow Winter,500,Dry Break (No Pot),Loss,-500,26600
+MTH-0267,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,24100
+MTH-0268,Moscow Winter,500,Soft Break,Loss,-500,23600
+MTH-0269,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,26100
+MTH-0270,Las Vegas,10000,Second-Ball Break,Win,10000,36100
+MTH-0271,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,33600
+MTH-0272,Sydney Marina,250,Power Break,Loss,-250,33350
+MTH-0273,Sydney Marina,250,Second-Ball Break,Win,250,33600
+MTH-0274,Moscow Winter,500,Power Break,Loss,-500,33100
+MTH-0275,Sydney Marina,250,Second-Ball Break,Loss,-250,32850
+MTH-0276,London Pub,50,Second-Ball Break,Loss,-50,32800
+MTH-0277,Las Vegas,10000,Second-Ball Break,Win,10000,42800
+MTH-0278,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,32800
+MTH-0279,London Pub,50,Power Break,Win,50,32850
+MTH-0280,Moscow Winter,500,Soft Break,Loss,-500,32350
+MTH-0281,London Pub,50,Soft Break,Win,50,32400
+MTH-0282,London Pub,50,Power Break,Win,50,32450
+MTH-0283,Las Vegas,10000,Power Break,Loss,-10000,22450
+MTH-0284,Tokyo Warrior,2500,Power Break,Win,2500,24950
+MTH-0285,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,14950
+MTH-0286,Las Vegas,10000,Second-Ball Break,Loss,-10000,4950
+MTH-0287,Sydney Marina,250,Power Break,Loss,-250,4700
+MTH-0288,London Pub,50,Dry Break (No Pot),Loss,-50,4650
+MTH-0289,Las Vegas,10000,Power Break,Loss,-10000,-5350
+MTH-0290,London Pub,50,Second-Ball Break,Win,50,-5300
+MTH-0291,Sydney Marina,250,Second-Ball Break,Loss,-250,-5550
+MTH-0292,London Pub,50,Second-Ball Break,Win,50,-5500
+MTH-0293,Las Vegas,10000,Second-Ball Break,Win,10000,4500
+MTH-0294,London Pub,50,Power Break,Win,50,4550
+MTH-0295,Sydney Marina,250,Power Break,Win,250,4800
+MTH-0296,Tokyo Warrior,2500,Power Break,Loss,-2500,2300
+MTH-0297,London Pub,50,Power Break,Win,50,2350
+MTH-0298,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-7650
+MTH-0299,Sydney Marina,250,Second-Ball Break,Win,250,-7400
+MTH-0300,Las Vegas,10000,Power Break,Win,10000,2600
+MTH-0301,Las Vegas,10000,Power Break,Win,10000,12600
+MTH-0302,London Pub,50,Power Break,Win,50,12650
+MTH-0303,Las Vegas,10000,Power Break,Win,10000,22650
+MTH-0304,London Pub,50,Power Break,Win,50,22700
+MTH-0305,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,20200
+MTH-0306,Las Vegas,10000,Power Break,Loss,-10000,10200
+MTH-0307,Las Vegas,10000,Second-Ball Break,Win,10000,20200
+MTH-0308,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,10200
+MTH-0309,Moscow Winter,500,Power Break,Win,500,10700
+MTH-0310,Moscow Winter,500,Dry Break (No Pot),Loss,-500,10200
+MTH-0311,Sydney Marina,250,Power Break,Win,250,10450
+MTH-0312,Moscow Winter,500,Power Break,Win,500,10950
+MTH-0313,Sydney Marina,250,Second-Ball Break,Win,250,11200
+MTH-0314,Moscow Winter,500,Second-Ball Break,Loss,-500,10700
+MTH-0315,Tokyo Warrior,2500,Power Break,Win,2500,13200
+MTH-0316,Sydney Marina,250,Soft Break,Loss,-250,12950
+MTH-0317,Moscow Winter,500,Second-Ball Break,Win,500,13450
+MTH-0318,Tokyo Warrior,2500,Power Break,Win,2500,15950
+MTH-0319,Moscow Winter,500,Second-Ball Break,Win,500,16450
+MTH-0320,London Pub,50,Power Break,Win,50,16500
+MTH-0321,London Pub,50,Power Break,Win,50,16550
+MTH-0322,Tokyo Warrior,2500,Power Break,Win,2500,19050
+MTH-0323,Las Vegas,10000,Power Break,Loss,-10000,9050
+MTH-0324,Las Vegas,10000,Second-Ball Break,Loss,-10000,-950
+MTH-0325,London Pub,50,Soft Break,Loss,-50,-1000
+MTH-0326,London Pub,50,Power Break,Loss,-50,-1050
+MTH-0327,Las Vegas,10000,Second-Ball Break,Loss,-10000,-11050
+MTH-0328,Sydney Marina,250,Second-Ball Break,Win,250,-10800
+MTH-0329,Las Vegas,10000,Power Break,Win,10000,-800
+MTH-0330,Moscow Winter,500,Second-Ball Break,Win,500,-300
+MTH-0331,Sydney Marina,250,Power Break,Loss,-250,-550
+MTH-0332,Moscow Winter,500,Second-Ball Break,Win,500,-50
+MTH-0333,London Pub,50,Power Break,Win,50,0
+MTH-0334,Sydney Marina,250,Power Break,Win,250,250
+MTH-0335,Moscow Winter,500,Power Break,Win,500,750
+MTH-0336,Moscow Winter,500,Power Break,Loss,-500,250
+MTH-0337,Sydney Marina,250,Power Break,Loss,-250,0
+MTH-0338,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-2500
+MTH-0339,Las Vegas,10000,Power Break,Win,10000,7500
+MTH-0340,Moscow Winter,500,Dry Break (No Pot),Loss,-500,7000
+MTH-0341,Las Vegas,10000,Dry Break (No Pot),Win,10000,17000
+MTH-0342,Las Vegas,10000,Power Break,Loss,-10000,7000
+MTH-0343,London Pub,50,Dry Break (No Pot),Loss,-50,6950
+MTH-0344,Las Vegas,10000,Second-Ball Break,Win,10000,16950
+MTH-0345,Moscow Winter,500,Soft Break,Win,500,17450
+MTH-0346,London Pub,50,Power Break,Win,50,17500
+MTH-0347,Sydney Marina,250,Second-Ball Break,Win,250,17750
+MTH-0348,Moscow Winter,500,Power Break,Loss,-500,17250
+MTH-0349,London Pub,50,Power Break,Loss,-50,17200
+MTH-0350,London Pub,50,Power Break,Win,50,17250
+MTH-0351,Las Vegas,10000,Second-Ball Break,Win,10000,27250
+MTH-0352,Sydney Marina,250,Power Break,Win,250,27500
+MTH-0353,Moscow Winter,500,Power Break,Loss,-500,27000
+MTH-0354,Moscow Winter,500,Power Break,Loss,-500,26500
+MTH-0355,Las Vegas,10000,Power Break,Loss,-10000,16500
+MTH-0356,Sydney Marina,250,Soft Break,Loss,-250,16250
+MTH-0357,Moscow Winter,500,Second-Ball Break,Win,500,16750
+MTH-0358,Sydney Marina,250,Power Break,Loss,-250,16500
+MTH-0359,Moscow Winter,500,Dry Break (No Pot),Loss,-500,16000
+MTH-0360,Las Vegas,10000,Power Break,Loss,-10000,6000
+MTH-0361,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,8500
+MTH-0362,Moscow Winter,500,Power Break,Loss,-500,8000
+MTH-0363,London Pub,50,Second-Ball Break,Loss,-50,7950
+MTH-0364,London Pub,50,Power Break,Loss,-50,7900
+MTH-0365,Tokyo Warrior,2500,Power Break,Win,2500,10400
+MTH-0366,Moscow Winter,500,Power Break,Loss,-500,9900
+MTH-0367,London Pub,50,Second-Ball Break,Win,50,9950
+MTH-0368,London Pub,50,Power Break,Loss,-50,9900
+MTH-0369,Moscow Winter,500,Power Break,Loss,-500,9400
+MTH-0370,Sydney Marina,250,Second-Ball Break,Win,250,9650
+MTH-0371,Moscow Winter,500,Second-Ball Break,Win,500,10150
+MTH-0372,Sydney Marina,250,Soft Break,Loss,-250,9900
+MTH-0373,Tokyo Warrior,2500,Power Break,Loss,-2500,7400
+MTH-0374,Las Vegas,10000,Power Break,Loss,-10000,-2600
+MTH-0375,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-5100
+MTH-0376,Las Vegas,10000,Power Break,Loss,-10000,-15100
+MTH-0377,London Pub,50,Second-Ball Break,Win,50,-15050
+MTH-0378,London Pub,50,Power Break,Loss,-50,-15100
+MTH-0379,London Pub,50,Second-Ball Break,Win,50,-15050
+MTH-0380,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-15300
+MTH-0381,Las Vegas,10000,Power Break,Win,10000,-5300
+MTH-0382,London Pub,50,Power Break,Loss,-50,-5350
+MTH-0383,Moscow Winter,500,Power Break,Loss,-500,-5850
+MTH-0384,Las Vegas,10000,Soft Break,Loss,-10000,-15850
+MTH-0385,Las Vegas,10000,Power Break,Loss,-10000,-25850
+MTH-0386,Sydney Marina,250,Power Break,Loss,-250,-26100
+MTH-0387,Tokyo Warrior,2500,Power Break,Win,2500,-23600
+MTH-0388,Sydney Marina,250,Soft Break,Win,250,-23350
+MTH-0389,London Pub,50,Power Break,Loss,-50,-23400
+MTH-0390,Moscow Winter,500,Soft Break,Loss,-500,-23900
+MTH-0391,Moscow Winter,500,Second-Ball Break,Win,500,-23400
+MTH-0392,London Pub,50,Power Break,Win,50,-23350
+MTH-0393,Moscow Winter,500,Power Break,Loss,-500,-23850
+MTH-0394,Sydney Marina,250,Second-Ball Break,Win,250,-23600
+MTH-0395,Sydney Marina,250,Second-Ball Break,Loss,-250,-23850
+MTH-0396,London Pub,50,Power Break,Loss,-50,-23900
+MTH-0397,Moscow Winter,500,Second-Ball Break,Win,500,-23400
+MTH-0398,Las Vegas,10000,Power Break,Loss,-10000,-33400
+MTH-0399,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-35900
+MTH-0400,Las Vegas,10000,Second-Ball Break,Loss,-10000,-45900
+MTH-0401,Sydney Marina,250,Soft Break,Win,250,-45650
+MTH-0402,Sydney Marina,250,Second-Ball Break,Win,250,-45400
+MTH-0403,Sydney Marina,250,Second-Ball Break,Loss,-250,-45650
+MTH-0404,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-45900
+MTH-0405,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-43400
+MTH-0406,London Pub,50,Dry Break (No Pot),Loss,-50,-43450
+MTH-0407,Sydney Marina,250,Power Break,Loss,-250,-43700
+MTH-0408,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-44200
+MTH-0409,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-41700
+MTH-0410,Sydney Marina,250,Power Break,Win,250,-41450
+MTH-0411,Moscow Winter,500,Dry Break (No Pot),Win,500,-40950
+MTH-0412,Sydney Marina,250,Power Break,Win,250,-40700
+MTH-0413,London Pub,50,Second-Ball Break,Loss,-50,-40750
+MTH-0414,Tokyo Warrior,2500,Power Break,Win,2500,-38250
+MTH-0415,London Pub,50,Soft Break,Loss,-50,-38300
+MTH-0416,Tokyo Warrior,2500,Power Break,Win,2500,-35800
+MTH-0417,Sydney Marina,250,Power Break,Win,250,-35550
+MTH-0418,Sydney Marina,250,Second-Ball Break,Win,250,-35300
+MTH-0419,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-37800
+MTH-0420,Moscow Winter,500,Second-Ball Break,Win,500,-37300
+MTH-0421,Moscow Winter,500,Power Break,Loss,-500,-37800
+MTH-0422,Sydney Marina,250,Power Break,Loss,-250,-38050
+MTH-0423,Sydney Marina,250,Power Break,Win,250,-37800
+MTH-0424,London Pub,50,Power Break,Loss,-50,-37850
+MTH-0425,Sydney Marina,250,Second-Ball Break,Win,250,-37600
+MTH-0426,Tokyo Warrior,2500,Power Break,Loss,-2500,-40100
+MTH-0427,Moscow Winter,500,Power Break,Loss,-500,-40600
+MTH-0428,Moscow Winter,500,Power Break,Win,500,-40100
+MTH-0429,London Pub,50,Power Break,Win,50,-40050
+MTH-0430,Moscow Winter,500,Second-Ball Break,Win,500,-39550
+MTH-0431,Moscow Winter,500,Soft Break,Loss,-500,-40050
+MTH-0432,Las Vegas,10000,Second-Ball Break,Win,10000,-30050
+MTH-0433,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-27550
+MTH-0434,Las Vegas,10000,Power Break,Win,10000,-17550
+MTH-0435,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-18050
+MTH-0436,London Pub,50,Power Break,Win,50,-18000
+MTH-0437,London Pub,50,Second-Ball Break,Win,50,-17950
+MTH-0438,Moscow Winter,500,Power Break,Win,500,-17450
+MTH-0439,Sydney Marina,250,Soft Break,Loss,-250,-17700
+MTH-0440,Las Vegas,10000,Power Break,Win,10000,-7700
+MTH-0441,Moscow Winter,500,Power Break,Loss,-500,-8200
+MTH-0442,London Pub,50,Power Break,Win,50,-8150
+MTH-0443,London Pub,50,Soft Break,Win,50,-8100
+MTH-0444,Las Vegas,10000,Second-Ball Break,Win,10000,1900
+MTH-0445,Tokyo Warrior,2500,Power Break,Win,2500,4400
+MTH-0446,Moscow Winter,500,Soft Break,Loss,-500,3900
+MTH-0447,Moscow Winter,500,Dry Break (No Pot),Loss,-500,3400
+MTH-0448,Tokyo Warrior,2500,Second-Ball Break,Win,2500,5900
+MTH-0449,Las Vegas,10000,Power Break,Loss,-10000,-4100
+MTH-0450,Las Vegas,10000,Power Break,Win,10000,5900
+MTH-0451,London Pub,50,Power Break,Win,50,5950
+MTH-0452,Tokyo Warrior,2500,Power Break,Loss,-2500,3450
+MTH-0453,Las Vegas,10000,Second-Ball Break,Loss,-10000,-6550
+MTH-0454,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-6800
+MTH-0455,Moscow Winter,500,Power Break,Win,500,-6300
+MTH-0456,London Pub,50,Second-Ball Break,Win,50,-6250
+MTH-0457,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-3750
+MTH-0458,London Pub,50,Second-Ball Break,Win,50,-3700
+MTH-0459,Las Vegas,10000,Power Break,Loss,-10000,-13700
+MTH-0460,Las Vegas,10000,Soft Break,Win,10000,-3700
+MTH-0461,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-3950
+MTH-0462,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-4450
+MTH-0463,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-1950
+MTH-0464,London Pub,50,Power Break,Loss,-50,-2000
+MTH-0465,Moscow Winter,500,Second-Ball Break,Win,500,-1500
+MTH-0466,Las Vegas,10000,Power Break,Loss,-10000,-11500
+MTH-0467,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-12000
+MTH-0468,London Pub,50,Power Break,Win,50,-11950
+MTH-0469,Moscow Winter,500,Power Break,Loss,-500,-12450
+MTH-0470,Las Vegas,10000,Power Break,Loss,-10000,-22450
+MTH-0471,Moscow Winter,500,Power Break,Loss,-500,-22950
+MTH-0472,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-25450
+MTH-0473,Moscow Winter,500,Power Break,Win,500,-24950
+MTH-0474,Tokyo Warrior,2500,Power Break,Loss,-2500,-27450
+MTH-0475,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-27950
+MTH-0476,Las Vegas,10000,Second-Ball Break,Loss,-10000,-37950
+MTH-0477,Sydney Marina,250,Power Break,Loss,-250,-38200
+MTH-0478,Sydney Marina,250,Second-Ball Break,Win,250,-37950
+MTH-0479,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-35450
+MTH-0480,Tokyo Warrior,2500,Power Break,Loss,-2500,-37950
+MTH-0481,Sydney Marina,250,Power Break,Loss,-250,-38200
+MTH-0482,Las Vegas,10000,Power Break,Win,10000,-28200
+MTH-0483,Las Vegas,10000,Power Break,Win,10000,-18200
+MTH-0484,Moscow Winter,500,Soft Break,Win,500,-17700
+MTH-0485,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-15200
+MTH-0486,Las Vegas,10000,Second-Ball Break,Loss,-10000,-25200
+MTH-0487,London Pub,50,Soft Break,Win,50,-25150
+MTH-0488,Moscow Winter,500,Power Break,Win,500,-24650
+MTH-0489,Moscow Winter,500,Second-Ball Break,Win,500,-24150
+MTH-0490,Sydney Marina,250,Second-Ball Break,Win,250,-23900
+MTH-0491,Tokyo Warrior,2500,Power Break,Loss,-2500,-26400
+MTH-0492,Las Vegas,10000,Power Break,Win,10000,-16400
+MTH-0493,Las Vegas,10000,Soft Break,Loss,-10000,-26400
+MTH-0494,Moscow Winter,500,Second-Ball Break,Win,500,-25900
+MTH-0495,Tokyo Warrior,2500,Power Break,Loss,-2500,-28400
+MTH-0496,Tokyo Warrior,2500,Soft Break,Loss,-2500,-30900
+MTH-0497,Tokyo Warrior,2500,Power Break,Loss,-2500,-33400
+MTH-0498,Sydney Marina,250,Power Break,Win,250,-33150
+MTH-0499,Las Vegas,10000,Dry Break (No Pot),Win,10000,-23150
+MTH-0500,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-25650
+MTH-0501,Sydney Marina,250,Power Break,Loss,-250,-25900
+MTH-0502,London Pub,50,Dry Break (No Pot),Loss,-50,-25950
+MTH-0503,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-26450
+MTH-0504,Las Vegas,10000,Second-Ball Break,Loss,-10000,-36450
+MTH-0505,Las Vegas,10000,Power Break,Win,10000,-26450
+MTH-0506,Moscow Winter,500,Power Break,Loss,-500,-26950
+MTH-0507,London Pub,50,Dry Break (No Pot),Win,50,-26900
+MTH-0508,Sydney Marina,250,Soft Break,Loss,-250,-27150
+MTH-0509,Moscow Winter,500,Power Break,Loss,-500,-27650
+MTH-0510,Sydney Marina,250,Dry Break (No Pot),Win,250,-27400
+MTH-0511,Sydney Marina,250,Second-Ball Break,Win,250,-27150
+MTH-0512,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-27400
+MTH-0513,London Pub,50,Dry Break (No Pot),Loss,-50,-27450
+MTH-0514,London Pub,50,Dry Break (No Pot),Loss,-50,-27500
+MTH-0515,Sydney Marina,250,Power Break,Loss,-250,-27750
+MTH-0516,Tokyo Warrior,2500,Power Break,Loss,-2500,-30250
+MTH-0517,Las Vegas,10000,Power Break,Win,10000,-20250
+MTH-0518,London Pub,50,Power Break,Loss,-50,-20300
+MTH-0519,Tokyo Warrior,2500,Power Break,Loss,-2500,-22800
+MTH-0520,Tokyo Warrior,2500,Power Break,Win,2500,-20300
+MTH-0521,Las Vegas,10000,Second-Ball Break,Loss,-10000,-30300
+MTH-0522,Sydney Marina,250,Power Break,Loss,-250,-30550
+MTH-0523,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-33050
+MTH-0524,Tokyo Warrior,2500,Power Break,Win,2500,-30550
+MTH-0525,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,-28050
+MTH-0526,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-28300
+MTH-0527,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-28550
+MTH-0528,London Pub,50,Dry Break (No Pot),Loss,-50,-28600
+MTH-0529,London Pub,50,Soft Break,Loss,-50,-28650
+MTH-0530,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-26150
+MTH-0531,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-26400
+MTH-0532,Sydney Marina,250,Soft Break,Loss,-250,-26650
+MTH-0533,Las Vegas,10000,Second-Ball Break,Loss,-10000,-36650
+MTH-0534,Tokyo Warrior,2500,Power Break,Win,2500,-34150
+MTH-0535,London Pub,50,Power Break,Win,50,-34100
+MTH-0536,Las Vegas,10000,Power Break,Win,10000,-24100
+MTH-0537,Sydney Marina,250,Power Break,Win,250,-23850
+MTH-0538,London Pub,50,Dry Break (No Pot),Loss,-50,-23900
+MTH-0539,Tokyo Warrior,2500,Power Break,Loss,-2500,-26400
+MTH-0540,Sydney Marina,250,Power Break,Loss,-250,-26650
+MTH-0541,Tokyo Warrior,2500,Soft Break,Win,2500,-24150
+MTH-0542,Las Vegas,10000,Second-Ball Break,Loss,-10000,-34150
+MTH-0543,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-44150
+MTH-0544,Las Vegas,10000,Second-Ball Break,Win,10000,-34150
+MTH-0545,Moscow Winter,500,Dry Break (No Pot),Win,500,-33650
+MTH-0546,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-36150
+MTH-0547,Las Vegas,10000,Second-Ball Break,Win,10000,-26150
+MTH-0548,Las Vegas,10000,Power Break,Win,10000,-16150
+MTH-0549,Tokyo Warrior,2500,Power Break,Win,2500,-13650
+MTH-0550,Las Vegas,10000,Soft Break,Win,10000,-3650
+MTH-0551,Tokyo Warrior,2500,Power Break,Loss,-2500,-6150
+MTH-0552,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-6400
+MTH-0553,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,-3900
+MTH-0554,Tokyo Warrior,2500,Power Break,Loss,-2500,-6400
+MTH-0555,Moscow Winter,500,Second-Ball Break,Win,500,-5900
+MTH-0556,Sydney Marina,250,Dry Break (No Pot),Win,250,-5650
+MTH-0557,Moscow Winter,500,Power Break,Loss,-500,-6150
+MTH-0558,Las Vegas,10000,Second-Ball Break,Win,10000,3850
+MTH-0559,Tokyo Warrior,2500,Power Break,Loss,-2500,1350
+MTH-0560,Sydney Marina,250,Power Break,Win,250,1600
+MTH-0561,Moscow Winter,500,Dry Break (No Pot),Loss,-500,1100
+MTH-0562,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-1400
+MTH-0563,London Pub,50,Second-Ball Break,Win,50,-1350
+MTH-0564,Moscow Winter,500,Power Break,Win,500,-850
+MTH-0565,Sydney Marina,250,Power Break,Win,250,-600
+MTH-0566,Moscow Winter,500,Soft Break,Loss,-500,-1100
+MTH-0567,Moscow Winter,500,Power Break,Win,500,-600
+MTH-0568,Moscow Winter,500,Second-Ball Break,Win,500,-100
+MTH-0569,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-10100
+MTH-0570,London Pub,50,Second-Ball Break,Win,50,-10050
+MTH-0571,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-10300
+MTH-0572,Sydney Marina,250,Second-Ball Break,Win,250,-10050
+MTH-0573,Sydney Marina,250,Power Break,Loss,-250,-10300
+MTH-0574,Tokyo Warrior,2500,Soft Break,Loss,-2500,-12800
+MTH-0575,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-13050
+MTH-0576,Sydney Marina,250,Soft Break,Loss,-250,-13300
+MTH-0577,London Pub,50,Second-Ball Break,Loss,-50,-13350
+MTH-0578,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-15850
+MTH-0579,Tokyo Warrior,2500,Power Break,Loss,-2500,-18350
+MTH-0580,Moscow Winter,500,Dry Break (No Pot),Win,500,-17850
+MTH-0581,Las Vegas,10000,Dry Break (No Pot),Win,10000,-7850
+MTH-0582,Tokyo Warrior,2500,Power Break,Loss,-2500,-10350
+MTH-0583,Tokyo Warrior,2500,Power Break,Loss,-2500,-12850
+MTH-0584,London Pub,50,Dry Break (No Pot),Loss,-50,-12900
+MTH-0585,Sydney Marina,250,Power Break,Win,250,-12650
+MTH-0586,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-15150
+MTH-0587,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-12650
+MTH-0588,Las Vegas,10000,Second-Ball Break,Win,10000,-2650
+MTH-0589,London Pub,50,Soft Break,Win,50,-2600
+MTH-0590,Las Vegas,10000,Soft Break,Loss,-10000,-12600
+MTH-0591,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-15100
+MTH-0592,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-17600
+MTH-0593,London Pub,50,Power Break,Loss,-50,-17650
+MTH-0594,Moscow Winter,500,Second-Ball Break,Win,500,-17150
+MTH-0595,Moscow Winter,500,Power Break,Loss,-500,-17650
+MTH-0596,Tokyo Warrior,2500,Power Break,Loss,-2500,-20150
+MTH-0597,Tokyo Warrior,2500,Power Break,Loss,-2500,-22650
+MTH-0598,Las Vegas,10000,Power Break,Loss,-10000,-32650
+MTH-0599,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-42650
+MTH-0600,Las Vegas,10000,Soft Break,Win,10000,-32650
+MTH-0601,Sydney Marina,250,Soft Break,Win,250,-32400
+MTH-0602,Tokyo Warrior,2500,Power Break,Win,2500,-29900
+MTH-0603,Sydney Marina,250,Second-Ball Break,Loss,-250,-30150
+MTH-0604,Moscow Winter,500,Second-Ball Break,Win,500,-29650
+MTH-0605,Tokyo Warrior,2500,Power Break,Loss,-2500,-32150
+MTH-0606,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-29650
+MTH-0607,London Pub,50,Power Break,Loss,-50,-29700
+MTH-0608,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-27200
+MTH-0609,Moscow Winter,500,Power Break,Loss,-500,-27700
+MTH-0610,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-25200
+MTH-0611,Sydney Marina,250,Dry Break (No Pot),Win,250,-24950
+MTH-0612,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-27450
+MTH-0613,Sydney Marina,250,Second-Ball Break,Win,250,-27200
+MTH-0614,Las Vegas,10000,Power Break,Win,10000,-17200
+MTH-0615,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-27200
+MTH-0616,London Pub,50,Dry Break (No Pot),Win,50,-27150
+MTH-0617,Tokyo Warrior,2500,Power Break,Win,2500,-24650
+MTH-0618,Las Vegas,10000,Second-Ball Break,Win,10000,-14650
+MTH-0619,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-24650
+MTH-0620,London Pub,50,Dry Break (No Pot),Win,50,-24600
+MTH-0621,London Pub,50,Dry Break (No Pot),Loss,-50,-24650
+MTH-0622,Tokyo Warrior,2500,Soft Break,Loss,-2500,-27150
+MTH-0623,Sydney Marina,250,Soft Break,Loss,-250,-27400
+MTH-0624,Tokyo Warrior,2500,Power Break,Win,2500,-24900
+MTH-0625,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-25150
+MTH-0626,London Pub,50,Soft Break,Loss,-50,-25200
+MTH-0627,Moscow Winter,500,Power Break,Win,500,-24700
+MTH-0628,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-22200
+MTH-0629,Moscow Winter,500,Power Break,Win,500,-21700
+MTH-0630,Sydney Marina,250,Power Break,Loss,-250,-21950
+MTH-0631,Tokyo Warrior,2500,Power Break,Loss,-2500,-24450
+MTH-0632,Moscow Winter,500,Power Break,Win,500,-23950
+MTH-0633,Moscow Winter,500,Power Break,Win,500,-23450
+MTH-0634,Tokyo Warrior,2500,Power Break,Win,2500,-20950
+MTH-0635,Moscow Winter,500,Second-Ball Break,Win,500,-20450
+MTH-0636,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-22950
+MTH-0637,Moscow Winter,500,Soft Break,Win,500,-22450
+MTH-0638,London Pub,50,Second-Ball Break,Win,50,-22400
+MTH-0639,Tokyo Warrior,2500,Power Break,Loss,-2500,-24900
+MTH-0640,London Pub,50,Power Break,Win,50,-24850
+MTH-0641,Las Vegas,10000,Second-Ball Break,Loss,-10000,-34850
+MTH-0642,London Pub,50,Second-Ball Break,Win,50,-34800
+MTH-0643,Moscow Winter,500,Power Break,Loss,-500,-35300
+MTH-0644,Sydney Marina,250,Power Break,Win,250,-35050
+MTH-0645,London Pub,50,Power Break,Win,50,-35000
+MTH-0646,London Pub,50,Power Break,Win,50,-34950
+MTH-0647,London Pub,50,Second-Ball Break,Loss,-50,-35000
+MTH-0648,Sydney Marina,250,Dry Break (No Pot),Win,250,-34750
+MTH-0649,Sydney Marina,250,Power Break,Win,250,-34500
+MTH-0650,London Pub,50,Second-Ball Break,Loss,-50,-34550
+MTH-0651,Las Vegas,10000,Power Break,Loss,-10000,-44550
+MTH-0652,Sydney Marina,250,Power Break,Loss,-250,-44800
+MTH-0653,Sydney Marina,250,Soft Break,Loss,-250,-45050
+MTH-0654,Sydney Marina,250,Soft Break,Loss,-250,-45300
+MTH-0655,Tokyo Warrior,2500,Power Break,Loss,-2500,-47800
+MTH-0656,London Pub,50,Power Break,Loss,-50,-47850
+MTH-0657,Las Vegas,10000,Second-Ball Break,Loss,-10000,-57850
+MTH-0658,Sydney Marina,250,Second-Ball Break,Win,250,-57600
+MTH-0659,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-60100
+MTH-0660,Moscow Winter,500,Power Break,Win,500,-59600
+MTH-0661,Moscow Winter,500,Power Break,Win,500,-59100
+MTH-0662,Sydney Marina,250,Dry Break (No Pot),Win,250,-58850
+MTH-0663,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-68850
+MTH-0664,Las Vegas,10000,Power Break,Loss,-10000,-78850
+MTH-0665,London Pub,50,Second-Ball Break,Win,50,-78800
+MTH-0666,Sydney Marina,250,Second-Ball Break,Loss,-250,-79050
+MTH-0667,Moscow Winter,500,Power Break,Loss,-500,-79550
+MTH-0668,London Pub,50,Dry Break (No Pot),Loss,-50,-79600
+MTH-0669,Las Vegas,10000,Power Break,Loss,-10000,-89600
+MTH-0670,London Pub,50,Power Break,Win,50,-89550
+MTH-0671,Moscow Winter,500,Power Break,Win,500,-89050
+MTH-0672,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-99050
+MTH-0673,Tokyo Warrior,2500,Soft Break,Loss,-2500,-101550
+MTH-0674,Tokyo Warrior,2500,Power Break,Win,2500,-99050
+MTH-0675,Sydney Marina,250,Dry Break (No Pot),Win,250,-98800
+MTH-0676,London Pub,50,Dry Break (No Pot),Loss,-50,-98850
+MTH-0677,Las Vegas,10000,Second-Ball Break,Loss,-10000,-108850
+MTH-0678,Sydney Marina,250,Second-Ball Break,Loss,-250,-109100
+MTH-0679,London Pub,50,Dry Break (No Pot),Loss,-50,-109150
+MTH-0680,Moscow Winter,500,Power Break,Loss,-500,-109650
+MTH-0681,Las Vegas,10000,Dry Break (No Pot),Win,10000,-99650
+MTH-0682,London Pub,50,Second-Ball Break,Win,50,-99600
+MTH-0683,Las Vegas,10000,Soft Break,Win,10000,-89600
+MTH-0684,London Pub,50,Soft Break,Loss,-50,-89650
+MTH-0685,Moscow Winter,500,Power Break,Win,500,-89150
+MTH-0686,Las Vegas,10000,Dry Break (No Pot),Win,10000,-79150
+MTH-0687,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-81650
+MTH-0688,Moscow Winter,500,Power Break,Loss,-500,-82150
+MTH-0689,London Pub,50,Second-Ball Break,Win,50,-82100
+MTH-0690,Las Vegas,10000,Power Break,Loss,-10000,-92100
+MTH-0691,Moscow Winter,500,Power Break,Win,500,-91600
+MTH-0692,London Pub,50,Dry Break (No Pot),Win,50,-91550
+MTH-0693,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-89050
+MTH-0694,Tokyo Warrior,2500,Soft Break,Win,2500,-86550
+MTH-0695,London Pub,50,Dry Break (No Pot),Loss,-50,-86600
+MTH-0696,Tokyo Warrior,2500,Power Break,Win,2500,-84100
+MTH-0697,Moscow Winter,500,Power Break,Loss,-500,-84600
+MTH-0698,Tokyo Warrior,2500,Power Break,Loss,-2500,-87100
+MTH-0699,Sydney Marina,250,Second-Ball Break,Win,250,-86850
+MTH-0700,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-89350
+MTH-0701,Sydney Marina,250,Power Break,Win,250,-89100
+MTH-0702,Las Vegas,10000,Power Break,Loss,-10000,-99100
+MTH-0703,Moscow Winter,500,Second-Ball Break,Win,500,-98600
+MTH-0704,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-108600
+MTH-0705,Las Vegas,10000,Second-Ball Break,Loss,-10000,-118600
+MTH-0706,Tokyo Warrior,2500,Power Break,Win,2500,-116100
+MTH-0707,Tokyo Warrior,2500,Power Break,Win,2500,-113600
+MTH-0708,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-116100
+MTH-0709,Las Vegas,10000,Power Break,Win,10000,-106100
+MTH-0710,Moscow Winter,500,Second-Ball Break,Loss,-500,-106600
+MTH-0711,Moscow Winter,500,Power Break,Loss,-500,-107100
+MTH-0712,Sydney Marina,250,Power Break,Win,250,-106850
+MTH-0713,London Pub,50,Dry Break (No Pot),Loss,-50,-106900
+MTH-0714,Moscow Winter,500,Power Break,Loss,-500,-107400
+MTH-0715,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-109900
+MTH-0716,Sydney Marina,250,Second-Ball Break,Win,250,-109650
+MTH-0717,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-112150
+MTH-0718,Las Vegas,10000,Power Break,Win,10000,-102150
+MTH-0719,Las Vegas,10000,Power Break,Loss,-10000,-112150
+MTH-0720,Tokyo Warrior,2500,Power Break,Loss,-2500,-114650
+MTH-0721,Moscow Winter,500,Dry Break (No Pot),Win,500,-114150
+MTH-0722,London Pub,50,Second-Ball Break,Win,50,-114100
+MTH-0723,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,-111600
+MTH-0724,Moscow Winter,500,Second-Ball Break,Loss,-500,-112100
+MTH-0725,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-112350
+MTH-0726,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-109850
+MTH-0727,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-110100
+MTH-0728,Moscow Winter,500,Power Break,Loss,-500,-110600
+MTH-0729,Moscow Winter,500,Second-Ball Break,Loss,-500,-111100
+MTH-0730,Moscow Winter,500,Power Break,Loss,-500,-111600
+MTH-0731,Moscow Winter,500,Power Break,Loss,-500,-112100
+MTH-0732,Las Vegas,10000,Power Break,Loss,-10000,-122100
+MTH-0733,Moscow Winter,500,Dry Break (No Pot),Win,500,-121600
+MTH-0734,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-131600
+MTH-0735,London Pub,50,Dry Break (No Pot),Loss,-50,-131650
+MTH-0736,Las Vegas,10000,Second-Ball Break,Loss,-10000,-141650
+MTH-0737,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-141900
+MTH-0738,London Pub,50,Power Break,Loss,-50,-141950
+MTH-0739,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-142200
+MTH-0740,Tokyo Warrior,2500,Soft Break,Loss,-2500,-144700
+MTH-0741,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,-142200
+MTH-0742,Las Vegas,10000,Second-Ball Break,Win,10000,-132200
+MTH-0743,Sydney Marina,250,Power Break,Win,250,-131950
+MTH-0744,Tokyo Warrior,2500,Power Break,Loss,-2500,-134450
+MTH-0745,Tokyo Warrior,2500,Power Break,Win,2500,-131950
+MTH-0746,Tokyo Warrior,2500,Power Break,Win,2500,-129450
+MTH-0747,London Pub,50,Power Break,Win,50,-129400
+MTH-0748,London Pub,50,Second-Ball Break,Loss,-50,-129450
+MTH-0749,Moscow Winter,500,Second-Ball Break,Win,500,-128950
+MTH-0750,Sydney Marina,250,Power Break,Loss,-250,-129200
+MTH-0751,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-126700
+MTH-0752,Sydney Marina,250,Power Break,Win,250,-126450
+MTH-0753,Moscow Winter,500,Power Break,Win,500,-125950
+MTH-0754,Las Vegas,10000,Second-Ball Break,Win,10000,-115950
+MTH-0755,Moscow Winter,500,Second-Ball Break,Loss,-500,-116450
+MTH-0756,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-118950
+MTH-0757,Las Vegas,10000,Dry Break (No Pot),Win,10000,-108950
+MTH-0758,Las Vegas,10000,Power Break,Win,10000,-98950
+MTH-0759,Moscow Winter,500,Second-Ball Break,Loss,-500,-99450
+MTH-0760,Tokyo Warrior,2500,Power Break,Loss,-2500,-101950
+MTH-0761,Las Vegas,10000,Power Break,Loss,-10000,-111950
+MTH-0762,Moscow Winter,500,Power Break,Win,500,-111450
+MTH-0763,Moscow Winter,500,Second-Ball Break,Win,500,-110950
+MTH-0764,Tokyo Warrior,2500,Power Break,Win,2500,-108450
+MTH-0765,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-108950
+MTH-0766,Moscow Winter,500,Power Break,Loss,-500,-109450
+MTH-0767,Moscow Winter,500,Soft Break,Win,500,-108950
+MTH-0768,Sydney Marina,250,Second-Ball Break,Win,250,-108700
+MTH-0769,London Pub,50,Power Break,Loss,-50,-108750
+MTH-0770,Sydney Marina,250,Power Break,Loss,-250,-109000
+MTH-0771,Moscow Winter,500,Soft Break,Win,500,-108500
+MTH-0772,London Pub,50,Second-Ball Break,Win,50,-108450
+MTH-0773,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-118450
+MTH-0774,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-118700
+MTH-0775,Sydney Marina,250,Power Break,Loss,-250,-118950
+MTH-0776,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-119200
+MTH-0777,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-121700
+MTH-0778,Moscow Winter,500,Power Break,Win,500,-121200
+MTH-0779,Las Vegas,10000,Second-Ball Break,Win,10000,-111200
+MTH-0780,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-121200
+MTH-0781,Las Vegas,10000,Power Break,Win,10000,-111200
+MTH-0782,Moscow Winter,500,Soft Break,Win,500,-110700
+MTH-0783,London Pub,50,Dry Break (No Pot),Loss,-50,-110750
+MTH-0784,Sydney Marina,250,Second-Ball Break,Win,250,-110500
+MTH-0785,Moscow Winter,500,Second-Ball Break,Win,500,-110000
+MTH-0786,Sydney Marina,250,Second-Ball Break,Win,250,-109750
+MTH-0787,Moscow Winter,500,Soft Break,Loss,-500,-110250
+MTH-0788,Sydney Marina,250,Power Break,Win,250,-110000
+MTH-0789,Moscow Winter,500,Power Break,Loss,-500,-110500
+MTH-0790,London Pub,50,Second-Ball Break,Win,50,-110450
+MTH-0791,Las Vegas,10000,Power Break,Win,10000,-100450
+MTH-0792,Sydney Marina,250,Second-Ball Break,Win,250,-100200
+MTH-0793,Moscow Winter,500,Dry Break (No Pot),Win,500,-99700
+MTH-0794,London Pub,50,Second-Ball Break,Win,50,-99650
+MTH-0795,London Pub,50,Second-Ball Break,Loss,-50,-99700
+MTH-0796,Las Vegas,10000,Second-Ball Break,Loss,-10000,-109700
+MTH-0797,Moscow Winter,500,Power Break,Win,500,-109200
+MTH-0798,Sydney Marina,250,Soft Break,Loss,-250,-109450
+MTH-0799,Tokyo Warrior,2500,Power Break,Win,2500,-106950
+MTH-0800,London Pub,50,Power Break,Loss,-50,-107000
+MTH-0801,London Pub,50,Power Break,Win,50,-106950
+MTH-0802,Las Vegas,10000,Power Break,Win,10000,-96950
+MTH-0803,Moscow Winter,500,Power Break,Loss,-500,-97450
+MTH-0804,Tokyo Warrior,2500,Power Break,Loss,-2500,-99950
+MTH-0805,Tokyo Warrior,2500,Power Break,Loss,-2500,-102450
+MTH-0806,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-104950
+MTH-0807,Moscow Winter,500,Second-Ball Break,Win,500,-104450
+MTH-0808,Sydney Marina,250,Power Break,Loss,-250,-104700
+MTH-0809,London Pub,50,Dry Break (No Pot),Loss,-50,-104750
+MTH-0810,Moscow Winter,500,Second-Ball Break,Loss,-500,-105250
+MTH-0811,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-102750
+MTH-0812,London Pub,50,Second-Ball Break,Loss,-50,-102800
+MTH-0813,London Pub,50,Power Break,Loss,-50,-102850
+MTH-0814,Tokyo Warrior,2500,Power Break,Loss,-2500,-105350
+MTH-0815,Tokyo Warrior,2500,Power Break,Win,2500,-102850
+MTH-0816,London Pub,50,Soft Break,Win,50,-102800
+MTH-0817,Las Vegas,10000,Second-Ball Break,Loss,-10000,-112800
+MTH-0818,London Pub,50,Dry Break (No Pot),Win,50,-112750
+MTH-0819,Sydney Marina,250,Power Break,Win,250,-112500
+MTH-0820,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-112750
+MTH-0821,Las Vegas,10000,Second-Ball Break,Loss,-10000,-122750
+MTH-0822,Moscow Winter,500,Second-Ball Break,Win,500,-122250
+MTH-0823,London Pub,50,Power Break,Loss,-50,-122300
+MTH-0824,Sydney Marina,250,Power Break,Loss,-250,-122550
+MTH-0825,London Pub,50,Soft Break,Loss,-50,-122600
+MTH-0826,Las Vegas,10000,Power Break,Win,10000,-112600
+MTH-0827,Tokyo Warrior,2500,Power Break,Win,2500,-110100
+MTH-0828,Las Vegas,10000,Power Break,Loss,-10000,-120100
+MTH-0829,Las Vegas,10000,Second-Ball Break,Win,10000,-110100
+MTH-0830,Las Vegas,10000,Power Break,Win,10000,-100100
+MTH-0831,Sydney Marina,250,Second-Ball Break,Win,250,-99850
+MTH-0832,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-109850
+MTH-0833,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-112350
+MTH-0834,Tokyo Warrior,2500,Power Break,Loss,-2500,-114850
+MTH-0835,Tokyo Warrior,2500,Power Break,Loss,-2500,-117350
+MTH-0836,Moscow Winter,500,Power Break,Loss,-500,-117850
+MTH-0837,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-127850
+MTH-0838,Tokyo Warrior,2500,Soft Break,Win,2500,-125350
+MTH-0839,Moscow Winter,500,Power Break,Win,500,-124850
+MTH-0840,Las Vegas,10000,Power Break,Loss,-10000,-134850
+MTH-0841,Las Vegas,10000,Power Break,Loss,-10000,-144850
+MTH-0842,London Pub,50,Second-Ball Break,Loss,-50,-144900
+MTH-0843,Las Vegas,10000,Power Break,Loss,-10000,-154900
+MTH-0844,London Pub,50,Dry Break (No Pot),Loss,-50,-154950
+MTH-0845,Sydney Marina,250,Second-Ball Break,Loss,-250,-155200
+MTH-0846,Sydney Marina,250,Power Break,Loss,-250,-155450
+MTH-0847,Moscow Winter,500,Power Break,Win,500,-154950
+MTH-0848,London Pub,50,Power Break,Win,50,-154900
+MTH-0849,Sydney Marina,250,Power Break,Win,250,-154650
+MTH-0850,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-154900
+MTH-0851,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-155150
+MTH-0852,Las Vegas,10000,Power Break,Loss,-10000,-165150
+MTH-0853,London Pub,50,Second-Ball Break,Win,50,-165100
+MTH-0854,Sydney Marina,250,Second-Ball Break,Win,250,-164850
+MTH-0855,London Pub,50,Second-Ball Break,Loss,-50,-164900
+MTH-0856,Tokyo Warrior,2500,Power Break,Win,2500,-162400
+MTH-0857,Tokyo Warrior,2500,Soft Break,Loss,-2500,-164900
+MTH-0858,Las Vegas,10000,Power Break,Loss,-10000,-174900
+MTH-0859,Tokyo Warrior,2500,Power Break,Loss,-2500,-177400
+MTH-0860,Moscow Winter,500,Dry Break (No Pot),Win,500,-176900
+MTH-0861,London Pub,50,Power Break,Win,50,-176850
+MTH-0862,Sydney Marina,250,Power Break,Win,250,-176600
+MTH-0863,Moscow Winter,500,Second-Ball Break,Win,500,-176100
+MTH-0864,Moscow Winter,500,Second-Ball Break,Loss,-500,-176600
+MTH-0865,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-179100
+MTH-0866,London Pub,50,Power Break,Loss,-50,-179150
+MTH-0867,Sydney Marina,250,Second-Ball Break,Win,250,-178900
+MTH-0868,Moscow Winter,500,Power Break,Loss,-500,-179400
+MTH-0869,Las Vegas,10000,Second-Ball Break,Win,10000,-169400
+MTH-0870,Sydney Marina,250,Power Break,Win,250,-169150
+MTH-0871,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-171650
+MTH-0872,London Pub,50,Soft Break,Win,50,-171600
+MTH-0873,Las Vegas,10000,Second-Ball Break,Win,10000,-161600
+MTH-0874,Sydney Marina,250,Power Break,Win,250,-161350
+MTH-0875,Sydney Marina,250,Soft Break,Win,250,-161100
+MTH-0876,Moscow Winter,500,Second-Ball Break,Win,500,-160600
+MTH-0877,Sydney Marina,250,Power Break,Win,250,-160350
+MTH-0878,London Pub,50,Dry Break (No Pot),Loss,-50,-160400
+MTH-0879,London Pub,50,Dry Break (No Pot),Loss,-50,-160450
+MTH-0880,Sydney Marina,250,Power Break,Loss,-250,-160700
+MTH-0881,Moscow Winter,500,Second-Ball Break,Loss,-500,-161200
+MTH-0882,Las Vegas,10000,Power Break,Win,10000,-151200
+MTH-0883,Las Vegas,10000,Power Break,Win,10000,-141200
+MTH-0884,Moscow Winter,500,Soft Break,Loss,-500,-141700
+MTH-0885,Tokyo Warrior,2500,Power Break,Win,2500,-139200
+MTH-0886,London Pub,50,Second-Ball Break,Loss,-50,-139250
+MTH-0887,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-141750
+MTH-0888,Moscow Winter,500,Soft Break,Win,500,-141250
+MTH-0889,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-138750
+MTH-0890,Moscow Winter,500,Power Break,Loss,-500,-139250
+MTH-0891,Las Vegas,10000,Power Break,Loss,-10000,-149250
+MTH-0892,Las Vegas,10000,Second-Ball Break,Win,10000,-139250
+MTH-0893,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-141750
+MTH-0894,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-139250
+MTH-0895,London Pub,50,Power Break,Loss,-50,-139300
+MTH-0896,Las Vegas,10000,Power Break,Loss,-10000,-149300
+MTH-0897,London Pub,50,Second-Ball Break,Loss,-50,-149350
+MTH-0898,Tokyo Warrior,2500,Power Break,Win,2500,-146850
+MTH-0899,Moscow Winter,500,Soft Break,Win,500,-146350
+MTH-0900,Las Vegas,10000,Power Break,Win,10000,-136350
+MTH-0901,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-136850
+MTH-0902,London Pub,50,Power Break,Win,50,-136800
+MTH-0903,London Pub,50,Power Break,Loss,-50,-136850
+MTH-0904,Sydney Marina,250,Second-Ball Break,Win,250,-136600
+MTH-0905,Las Vegas,10000,Power Break,Win,10000,-126600
+MTH-0906,Las Vegas,10000,Second-Ball Break,Loss,-10000,-136600
+MTH-0907,London Pub,50,Power Break,Win,50,-136550
+MTH-0908,Moscow Winter,500,Power Break,Loss,-500,-137050
+MTH-0909,Las Vegas,10000,Power Break,Loss,-10000,-147050
+MTH-0910,London Pub,50,Second-Ball Break,Win,50,-147000
+MTH-0911,Sydney Marina,250,Power Break,Win,250,-146750
+MTH-0912,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-149250
+MTH-0913,Las Vegas,10000,Second-Ball Break,Win,10000,-139250
+MTH-0914,Tokyo Warrior,2500,Power Break,Loss,-2500,-141750
+MTH-0915,Moscow Winter,500,Soft Break,Win,500,-141250
+MTH-0916,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-141500
+MTH-0917,Las Vegas,10000,Second-Ball Break,Loss,-10000,-151500
+MTH-0918,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-154000
+MTH-0919,Tokyo Warrior,2500,Power Break,Win,2500,-151500
+MTH-0920,London Pub,50,Dry Break (No Pot),Win,50,-151450
+MTH-0921,Tokyo Warrior,2500,Power Break,Win,2500,-148950
+MTH-0922,Moscow Winter,500,Second-Ball Break,Win,500,-148450
+MTH-0923,Tokyo Warrior,2500,Dry Break (No Pot),Win,2500,-145950
+MTH-0924,Moscow Winter,500,Power Break,Win,500,-145450
+MTH-0925,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-145950
+MTH-0926,London Pub,50,Power Break,Loss,-50,-146000
+MTH-0927,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-146250
+MTH-0928,Moscow Winter,500,Dry Break (No Pot),Win,500,-145750
+MTH-0929,Tokyo Warrior,2500,Soft Break,Loss,-2500,-148250
+MTH-0930,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-150750
+MTH-0931,Moscow Winter,500,Soft Break,Loss,-500,-151250
+MTH-0932,Tokyo Warrior,2500,Power Break,Loss,-2500,-153750
+MTH-0933,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-163750
+MTH-0934,London Pub,50,Power Break,Win,50,-163700
+MTH-0935,Tokyo Warrior,2500,Power Break,Loss,-2500,-166200
+MTH-0936,London Pub,50,Dry Break (No Pot),Win,50,-166150
+MTH-0937,Moscow Winter,500,Second-Ball Break,Loss,-500,-166650
+MTH-0938,Moscow Winter,500,Soft Break,Loss,-500,-167150
+MTH-0939,Moscow Winter,500,Second-Ball Break,Win,500,-166650
+MTH-0940,London Pub,50,Power Break,Loss,-50,-166700
+MTH-0941,Tokyo Warrior,2500,Second-Ball Break,Loss,-2500,-169200
+MTH-0942,Las Vegas,10000,Second-Ball Break,Loss,-10000,-179200
+MTH-0943,London Pub,50,Power Break,Win,50,-179150
+MTH-0944,Las Vegas,10000,Power Break,Win,10000,-169150
+MTH-0945,Tokyo Warrior,2500,Soft Break,Loss,-2500,-171650
+MTH-0946,Tokyo Warrior,2500,Power Break,Win,2500,-169150
+MTH-0947,London Pub,50,Dry Break (No Pot),Win,50,-169100
+MTH-0948,Sydney Marina,250,Second-Ball Break,Loss,-250,-169350
+MTH-0949,Las Vegas,10000,Second-Ball Break,Win,10000,-159350
+MTH-0950,Moscow Winter,500,Power Break,Loss,-500,-159850
+MTH-0951,Las Vegas,10000,Second-Ball Break,Win,10000,-149850
+MTH-0952,Tokyo Warrior,2500,Soft Break,Win,2500,-147350
+MTH-0953,Tokyo Warrior,2500,Soft Break,Win,2500,-144850
+MTH-0954,London Pub,50,Dry Break (No Pot),Loss,-50,-144900
+MTH-0955,Sydney Marina,250,Power Break,Win,250,-144650
+MTH-0956,Moscow Winter,500,Power Break,Loss,-500,-145150
+MTH-0957,Las Vegas,10000,Dry Break (No Pot),Loss,-10000,-155150
+MTH-0958,Sydney Marina,250,Second-Ball Break,Loss,-250,-155400
+MTH-0959,Moscow Winter,500,Dry Break (No Pot),Loss,-500,-155900
+MTH-0960,Tokyo Warrior,2500,Power Break,Win,2500,-153400
+MTH-0961,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-150900
+MTH-0962,London Pub,50,Second-Ball Break,Win,50,-150850
+MTH-0963,London Pub,50,Soft Break,Win,50,-150800
+MTH-0964,Las Vegas,10000,Second-Ball Break,Win,10000,-140800
+MTH-0965,Sydney Marina,250,Second-Ball Break,Win,250,-140550
+MTH-0966,Sydney Marina,250,Second-Ball Break,Win,250,-140300
+MTH-0967,Moscow Winter,500,Second-Ball Break,Win,500,-139800
+MTH-0968,Las Vegas,10000,Second-Ball Break,Loss,-10000,-149800
+MTH-0969,London Pub,50,Power Break,Loss,-50,-149850
+MTH-0970,Las Vegas,10000,Second-Ball Break,Win,10000,-139850
+MTH-0971,Tokyo Warrior,2500,Power Break,Win,2500,-137350
+MTH-0972,London Pub,50,Soft Break,Loss,-50,-137400
+MTH-0973,Sydney Marina,250,Soft Break,Loss,-250,-137650
+MTH-0974,London Pub,50,Second-Ball Break,Win,50,-137600
+MTH-0975,Tokyo Warrior,2500,Power Break,Win,2500,-135100
+MTH-0976,London Pub,50,Power Break,Win,50,-135050
+MTH-0977,Sydney Marina,250,Second-Ball Break,Loss,-250,-135300
+MTH-0978,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-137800
+MTH-0979,Moscow Winter,500,Second-Ball Break,Win,500,-137300
+MTH-0980,Las Vegas,10000,Second-Ball Break,Loss,-10000,-147300
+MTH-0981,Moscow Winter,500,Power Break,Win,500,-146800
+MTH-0982,Tokyo Warrior,2500,Dry Break (No Pot),Loss,-2500,-149300
+MTH-0983,Tokyo Warrior,2500,Second-Ball Break,Win,2500,-146800
+MTH-0984,Tokyo Warrior,2500,Power Break,Win,2500,-144300
+MTH-0985,Sydney Marina,250,Power Break,Win,250,-144050
+MTH-0986,Tokyo Warrior,2500,Power Break,Loss,-2500,-146550
+MTH-0987,Las Vegas,10000,Power Break,Loss,-10000,-156550
+MTH-0988,Sydney Marina,250,Power Break,Loss,-250,-156800
+MTH-0989,Tokyo Warrior,2500,Power Break,Win,2500,-154300
+MTH-0990,Sydney Marina,250,Dry Break (No Pot),Loss,-250,-154550
+MTH-0991,Las Vegas,10000,Power Break,Loss,-10000,-164550
+MTH-0992,Las Vegas,10000,Second-Ball Break,Win,10000,-154550
+MTH-0993,Sydney Marina,250,Power Break,Win,250,-154300
+MTH-0994,London Pub,50,Soft Break,Loss,-50,-154350
+MTH-0995,Moscow Winter,500,Second-Ball Break,Loss,-500,-154850
+MTH-0996,Tokyo Warrior,2500,Soft Break,Win,2500,-152350
+MTH-0997,Moscow Winter,500,Second-Ball Break,Win,500,-151850
+MTH-0998,Las Vegas,10000,Soft Break,Loss,-10000,-161850
+MTH-0999,Moscow Winter,500,Dry Break (No Pot),Win,500,-161350
+MTH-1000,London Pub,50,Power Break,Win,50,-161300
